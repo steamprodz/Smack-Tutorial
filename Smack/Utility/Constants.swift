@@ -9,3 +9,5 @@
 import Foundation
 
 let LOGIN_SEGUE = "LoginSegue"
+let CREATE_ACCOUNT_SEGUE = "CreateAccountSegue"
+let UNWIND_SEGUE = "UnwindSegue"
